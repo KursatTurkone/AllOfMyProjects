@@ -1,0 +1,7 @@
+https://play.google.com/store/apps/details?id=com.banbagames.grandstreetracing
+
+https://youtu.be/IHOCjzo4s_w
+
+Oyundaki şehir AI'larını bu AI'ların ışıkta bekleme kazadan kaçınma 
+ve etrafından dolanma gibi kısımlarını tamamen ben kodladım bunun dışında map sistemi,
+Mağaza kısmındaki UI sistemleri, satın alım sistemleri, günlük ödül sistemi ve ayarlar sekmesi tarafı tamamen bana aittir.
